@@ -1,0 +1,32 @@
+_repo: Suonion-kootut-runoelmat-ja-kertoelmat_41469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, J. (Julius)
+    - Krohn, Gyula
+    - Suonio
+    - Krohn, Julius Leopold Fredrik
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+description: ''
+gutenberg_issued: '2012-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41469'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+title: Suonion kootut runoelmat ja kertoelmat
+url: http://www.gutenberg.org/ebooks/41469
